@@ -1,0 +1,19 @@
+h1{
+   color:red; 
+   font-family:arial:20px; 
+   font-weight:500;
+}
+
+h2{
+	color:black; 
+	font-size:16px;
+}
+
+p{
+   color:yellow; 
+   font-size:14px;
+}
+
+img{
+	border:1px blue solid;
+}
